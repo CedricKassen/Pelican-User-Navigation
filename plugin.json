@@ -5,8 +5,8 @@
     "version": "1.0.0",
     "description": "Lets every user reorder and hide the items of the server navigation",
     "category": "plugin",
-    "url": null,
-    "update_url": null,
+    "url": "https://github.com/CedricKassen/Pelican-User-Navigation",
+    "update_url": "https://hub.pelican.dev/plugins/user-navigation/update.json",
     "namespace": "CedricKassen\\UserNavigation",
     "class": "UserNavigationPlugin",
     "panels": [
