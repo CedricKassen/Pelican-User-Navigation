@@ -1,0 +1,18 @@
+{
+    "id": "user-navigation",
+    "name": "User Navigation",
+    "author": "Cedric Kassen",
+    "version": "1.0.0",
+    "description": "Lets every user reorder and hide the items of the server navigation",
+    "category": "plugin",
+    "url": null,
+    "update_url": null,
+    "namespace": "CedricKassen\\UserNavigation",
+    "class": "UserNavigationPlugin",
+    "panels": [
+        "server"
+    ],
+    "panel_version": null,
+    "api_version": 1,
+    "composer_packages": null
+}
